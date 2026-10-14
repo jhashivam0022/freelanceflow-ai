@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+.env
+
+# Node
+node_modules/
+dist/
+
+# Editor / local tooling
+.vscode/
+.idea/
+.claude/
